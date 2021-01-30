@@ -1,6 +1,7 @@
-# FeatureEngineering
+## FeatureEngineering
 
 What is Data Preprocessing or Feature Engineering?
+
 Data in its raw format is almost never suitable for use to train machine learning algorithms. Instead, data scientists devote a substantial amount of time to pre-process the variables to use them in machine learning. Feature engineering or Data Pre-processing is the process of using domain knowledge of the data to transform existing features or to create new variables from existing ones, for use in machine learning.
 
 Why do we need Feature Engineering?
